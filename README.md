@@ -1,0 +1,2 @@
+# Korpusgenerierung_Tageszeitung_Heute
+Korpusgenerierung_der_Tageszeitung_Heute
